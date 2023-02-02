@@ -1,0 +1,19 @@
+data:
+  path: "./data/"
+  cols: 
+    - Total_Page_Likes
+    - Paid
+    - Total_Reach
+    - Total_Impressions
+    - Total_Users_Engaged
+    - Total_Consumers
+    - Total_Consumptions
+    - Total_Impressions_Liked_Pages
+    - Total_Reach_Liked_Pages
+    - Total_Engaged_Liked_Pages
+    - Comment
+    - Like
+    - Share
+    - Total_Interactions
+
+      
